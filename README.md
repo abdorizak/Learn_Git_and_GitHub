@@ -13,7 +13,8 @@ sidee ula shaqeyn lahayd kooxdaas oo u qori lahayd code isla mar ahaantas iyaga 
 <p align="left">
 git waa Version Control System, dhab ahaantii waa nidaamka hoose ee ka shaqeeya qaab local ah.
 </p>
-- Waa Maxay `GitHub` ama `GitLab`? </b>
+
+- Waa Maxay `GitHub` ama `GitLab`?
 <p align="left">
 waa Nidaam Online ah kaas oo logu talagalay in lagu kaydiyo, lagu lasocda software projects ka taas oo keeni karta in developers badan ay kawada shaqayn karaan project ayaka oo adeegsanaya nidamka git si ay ulaqaybqatan hada project markas la hayaho.
 </p>
