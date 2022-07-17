@@ -11,7 +11,7 @@ kaba soo qaad waxaa Lashaqaynaysaa Team kuwaas oo Sameynayaan Project `Online Re
 sidee ula shaqeyn lahayd kooxdaas oo u qori lahayd code isla mar ahaantas iyaga iyo adi isku code ah waliba isku project isla mar ahaantas, ayado oo laga Foganaya Khilaaf. Hagaag, taasi waa meesha git iyo gitHub ama gitLab, ka soo galaan.
 * waa Maxay `Git`?
 git waa Version Control System, dhab ahaantii waa nidaamka hoose ee ka shaqeeya qaab local ah.
-* Waa Maxay GitHub ama GitLab?
+* Waa Maxay `GitHub` ama `GitLab`? </b>
 waa Nidaam Online ah kaas oo logu talagalay in lagu kaydiyo, lagu lasocda software projects ka taas oo keeni karta in developers badan ay kawada shaqayn karaan project ayaka oo adeegsanaya nidamka git si ay ulaqaybqatan hada project markas la hayaho.
 
 ## <h1 align="left">faa'iidooyin ka Git and GitHub</h1>
