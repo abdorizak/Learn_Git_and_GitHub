@@ -14,4 +14,10 @@ git waa Version Control System, dhab ahaantii waa nidaamka hoose ee ka shaqeeya 
 * Waa Maxay GitHub ama GitLab?
 waa Nidaam Online ah kaas oo logu talagalay in lagu kaydiyo, lagu lasocda software projects ka taas oo keeni karta in developers badan ay kawada shaqayn karaan project ayaka oo adeegsanaya nidamka git si ay ulaqaybqatan hada project markas la hayaho.
 
-## <h1 align="left">faa'iidooyin ka GitHub</h1>
+## <h1 align="left">faa'iidooyin ka Git and GitHub</h1>
+  • waxaa ow kuu sahlaa in aad daba gali karto/ Tracking isbadalka project kaaga.
+  • in aad Team Devlopers la shaqayn karto project.
+  • in aad la xariiri karto repository kaaga adiga oo adegsanaya CLI (Command Line Interface) kaaga, waliba samaynaa push pull GitHub Repository.
+
+<h3 align="left">Waa Maxay Repository?</h3>
+waa meel aad ku kayd sankarto project kaaga.
