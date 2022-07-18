@@ -1,12 +1,12 @@
 <p align="center">
   <img width="500" src="./Logo.png" alt="Learn Git and GitHub">
 </p>
-<h1 align="center">Baro Git and GitHub</h1>
+<h1 align="center">Baro Git & GitHub</h1>
 <p align="left">
   keydkani waxaa ugu Tala Galay In Ardayda iyo Junior developers ka ay ka baran karaa Nidamka Git kaaso oo ku sahlaya in Account kaaga Github ka Repository yadiisa aa la xariiri kartid, Hadii Aadan Hore U Aqoon Dhib Maleh Waxan ku bari Doonaa halkan Hadaba Hadii Adan Horey u leheen Samayso Account adiga oo Gujinaya -> <a href="https://github.com/" target="_blank">GitHub</a>.
 </p>
 
-## Waa Maxay Git and GitHub?
+## Waa Maxay Git & GitHub?
 kaba soo qaad waxaa Lashaqaynaysaa Team kuwaas oo Sameynayaan Project `Online Registration` waaxaa lagu soo asign Gareeyey Task,
 sidee ula shaqeyn lahayd kooxdaas oo u qori lahayd code isla mar ahaantas iyaga iyo adi isku code ah waliba isku project isla mar ahaantas, ayado oo laga Foganaya Khilaaf. Hagaag, taasi waa meesha git iyo gitHub ama gitLab, ka soo galaan.
 - waa Maxay `Git`?
