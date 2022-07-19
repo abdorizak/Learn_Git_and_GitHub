@@ -11,18 +11,18 @@ kaba soo qaad waxaa Lashaqaynaysaa Team kuwaas oo Sameynayaan Project `Online Re
 sidee ula shaqeyn lahayd kooxdaas oo u qori lahayd code isla mar ahaantas iyaga iyo adi isku code ah waliba isku project isla mar ahaantas, ayado oo laga Foganaya Khilaaf. Hagaag, taasi waa meesha git iyo gitHub ama gitLab, ka soo galaan.
 - waa Maxay `Git`?
 <p align="left">
-git waa Version Control System, dhab ahaantii waa nidaamka hoose ee ka shaqeeya qaab local ah.
+git waa Version Control System, dhab ahaantii waa nidaamka hoose ee ku shaqeeya qaab local ah.
 </p>
 
 - Waa Maxay `GitHub` ama `GitLab`?
 <p align="left">
-waa Nidaam Online ah kaas oo logu talagalay in lagu kaydiyo, lagu lasocda software projects ka taas oo keeni karta in developers badan ay kawada shaqayn karaan project ayaka oo adeegsanaya nidamka git si ay ulaqaybqatan hada project markas la hayaho.
+waa Nidaam Online ah kaas oo logu talagalay in lagu kaydiyo, lagu lasocda software projects ka taas oo keeni karta in developers badan ay kawada shaqayn karaan project ayaka oo adeegsanaya nidamka git si ay ulaqaybqatan hadba project markas la hayaho.
 </p>
 
 ## <h1 align="left">faa'iidooyin ka Git and GitHub</h1>
-• waxaa ow kuu sahlaa in aad daba gali karto/ Tracking isbadalka project kaaga.
-• in aad Team Devlopers la shaqayn karto project.
-• in aad la xariiri karto repository kaaga adiga oo adegsanaya CLI (Command Line Interface) kaaga, waliba samaynaa push pull GitHub Repository.
+- waxaa ow kuu sahlaa in aad daba gali karto/ Tracking isbadalka project kaaga.
+- in aad Team Devlopers la shaqayn karto project.
+- in aad la xariiri karto repository kaaga adiga oo adegsanaya CLI (Command Line Interface) kaaga, waliba samaynaa push pull GitHub Repository.
 
 <h3 align="left">Waa Maxay Repository?</h3>
 waa meel aad ku kayd sankarto project kaaga.
