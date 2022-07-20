@@ -92,6 +92,5 @@ Si aan u ogaado in aad wax ka fahantay waxaan lagaaga Bahanyahay qodobadan Sooso
 </a>
 
 
-<p align="center">
-  <h2>© 2022 Abdorizak, iOS Engineer</h2>
-</p>
+
+<h2 align="center">© 2022 Abdorizak, iOS Engineer</h2>
