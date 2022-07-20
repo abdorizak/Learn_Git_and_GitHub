@@ -93,4 +93,4 @@ Si aan u ogaado in aad wax ka fahantay waxaan lagaaga Bahanyahay qodobadan Sooso
 
 
 
-<h2 align="center">© 2022 Abdorizak, iOS Engineer</h2>
+<h4 align="center">© 2022 Abdorizak, iOS Engineer || Mohamud A. Abshir, Front-End Engineer || Samir Samawade, Mobile Developer </h4>
