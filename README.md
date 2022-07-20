@@ -44,3 +44,54 @@ waa meel aad ku kayd sankarto project kaaga.
    ugu dambeyn Main-ka ayey ku soo wareejiyaan.
 - `git log` waxa uu soo bandhigaa branch-ga markaas la joogo commits-ka laga sameeyay.
 
+## <h1 align="left">Sidee loogu Shubtaada Git Computer kaaga</h1>
+### windows
+* Si'aad u setup gareyso git waxaad u baahantahay in aad lasoo dagto programkan hadii aad isticmaalayso window adiga oo raacaya [Link]('https://git-scm.com/downloads').
+
+### mac
+* Si'aad u setup gareyso git waxaad u baahantahay in aad isticmaahso `HomeBrew` oo ku fududeynaayo in aad ku shubato `git` marka hore hobi in ow kugu jiro `brew` hadii ow san kugu jirin soo dagso [Home Brew]('https://brew.sh/') ama isticmaal command kan si aad ugu shubato:
+```terminal
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+kadib ku shubo `git`:
+```terminal
+brew install git
+```
+
+### Linux
+isticmaal Command-gan soosocdo si aad ugu shubato `git` linux-kaaga:
+```terminal
+sudo apt install git-all
+```
+
+# sidee Project local ah loosoo saraa Github ama GitLab adiga oo adeegsanayo amarada git.
+- Marka Hore waxaad u bahantahay in soo furto `Terminal` ama `Command-Line Interface` adiga oo tagaya Project meeshisa / `Folder directory` kadib adeegsanaya Amarada/commands git.
+- kadib qor amradan/commands kan 
+  - `git init` oo ah abuur repositery cusub
+  - `git add ` isticmaal marka aad adegsanayso command gan calamada `.` oo micnaheedu yahay dhamaan hal-mar kuwad shub repositery-ga files-ka, hadii aad hore u sameysay balse file aad wax kabadashay waxaad samayn kartaa isla command-gan adiga oo dhahaya tusaale: `git add file.js` command-gan waxow ku samaynayaa in aad kaliya file kas saarankarto repositery-gaaga
+  - Kadib samey commit adiga oo adegsanaya commad-gan `git commit -m 'waxa aad samaysay ku qeexaya halkan'`
+  - hadii aadan hore ugu link-gareysnayn github link-gaaga ama gitLab kaaga isticmaal command-gan `git remote add <git URL>`.
+  -kadib push garey adiga oo adeegsanaya command-ga `git push origin main` hadii repositery-gaaga `master` yahay kubadal meesha `main` adiga oo qoraya sidan `git push origin Master`.
+
+
+## Wax ku darso mashruuca
+Si aan u ogaado in aad wax ka fahantay waxaan lagaaga Bahanyahay qodobadan Soosocda:
+- Fork ku dhaho Project-ga kontadaada asaasiga ee GitHub.
+- Samey Json file adiga oo ku dhex abuuraaya directory-ka `./contributers/{magacaaga}.json` kuna dhex qorayaa sidatan.
+```json
+{
+  "name": "Magacaaga",
+  "university": "Jamacada aad dhigatid / kasoo baxday",
+  "description": "Faahfaahin ku qor halkan.",
+}
+```
+
+## Mahadsanidin Dhamaan (Contributers)
+<a href = "https://github.com/abdorizak/Learn_Git_and_GitHub/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=abdorizak/Learn_Git_and_GitHub"/>
+</a>
+
+
+<p align="center">
+  <h2>© 2022 Abdorizak, iOS Engineer</h2>
+</p>
