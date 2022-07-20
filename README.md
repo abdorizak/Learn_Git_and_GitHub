@@ -26,3 +26,21 @@ waa Nidaam Online ah kaas oo logu talagalay in lagu kaydiyo, lagu lasocda softwa
 
 <h3 align="left">Waa Maxay Repository?</h3>
 waa meel aad ku kayd sankarto project kaaga.
+
+## <h1 align="left">Amarada aasaasiga ah ee Git</h1>
+- `git config` waxa uu gitka baraa qafka aad tahay, asaga oo keydinaya magaacaga iyo email kaaga si loogu istcmaalo `git commits` kaaga.
+- `git init` waxaa lugu abuura git repository cusub.
+- `git clone` waxa uu soo dajiyaa copyga project remote repository(sida `GitHub` ama `GitLab`) saaran.
+- `git add` hal file ama ka badan ayuu ku daraa meesha diyaarinta(staging area).
+- `git commit` waxa uu si taxana ah `Git` ka ugu keydiyaa faylasha isbadaka lugu sameeyay.
+- `git status` waxa uu soo tixaa faylasha aad wax ka badashay iyo kuwa aadan wali `git add` ama `git commit` ku sameyn.
+- `git push` faylasha aad soo commit gareysay ayuu remote repository(sida `GitHub` ama `GitLab`) saaraa.
+- `git remote` local repository-ga ayuu remote repository (sida `GitHub` ama `GitLab`) ku xiraa.
+- `git branch` waxa uu kuu sahlaa in aad projecti-gaaga laamo u qeybiso si ay developers-ka ugu fududaato in midkastaahi shaqadiisa 
+   si madaxbanaan u qabsado. `git branch` waxaa lugu abuurikaraa, arkikaraa ama tirikaraa laamaha projectiga.
+- `git checkout` waxaa loo isticmaala sameynta branch cusub iyo in asga loo wareego, sidookale branches horay u jiray ayaa la isaga gudbi karaa.
+- `git pull` waxaa lugu helaa update-yadii u dambeeyay ee ka dhacay remote repository-ga.
+- `git merge` isbadalada brach ka dhaca ayuu branch kale u gudbiyaa, tusaale: developers-ka shaqooyinka ay branch-yada kaladuwan ku soo qabtaan 
+   ugu dambeyn Main-ka ayey ku soo wareejiyaan.
+- `git log` waxa uu soo bandhigaa branch-ga markaas la joogo commits-ka laga sameeyay.
+
